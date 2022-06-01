@@ -15,7 +15,7 @@ Now I am at the very beginning of my Frontend training.
 * HTML, CSS (beginner)
 * JavaScript Basics (beginner)
 * Git, GitHub (beginner)
-* VS Code
+* VS Code (beginner)
 
 ## Code examples
 ```
