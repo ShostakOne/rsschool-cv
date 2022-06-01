@@ -38,4 +38,4 @@ I have no experience in web development.
   + Learn.JavaScript
 
 ## Languages
-* English - ( А1 )
+* English - ( А1 ).
