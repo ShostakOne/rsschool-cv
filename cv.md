@@ -30,7 +30,7 @@ return example[operator];
 }
 ```
 ## Experience
-I have no experience in web development.
+I have no experience in web development
 
 ## Education and courses:
 
